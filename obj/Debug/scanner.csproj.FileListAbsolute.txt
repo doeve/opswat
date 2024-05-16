@@ -18,3 +18,13 @@ E:\Projects\Opswat\obj\Debug\scanner.csproj.CoreCompileInputs.cache
 E:\Projects\Opswat\obj\Debug\scanner.csproj.Up2Date
 E:\Projects\Opswat\obj\Debug\scanner.exe
 E:\Projects\Opswat\obj\Debug\scanner.pdb
+E:\Misc\opswat\bin\Debug\scanner.exe.config
+E:\Misc\opswat\bin\Debug\scanner.exe
+E:\Misc\opswat\bin\Debug\scanner.pdb
+E:\Misc\opswat\bin\Debug\Newtonsoft.Json.dll
+E:\Misc\opswat\bin\Debug\Newtonsoft.Json.xml
+E:\Misc\opswat\obj\Debug\scanner.csproj.AssemblyReference.cache
+E:\Misc\opswat\obj\Debug\scanner.csproj.CoreCompileInputs.cache
+E:\Misc\opswat\obj\Debug\scanner.csproj.Up2Date
+E:\Misc\opswat\obj\Debug\scanner.exe
+E:\Misc\opswat\obj\Debug\scanner.pdb
