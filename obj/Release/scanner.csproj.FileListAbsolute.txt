@@ -1,0 +1,10 @@
+E:\Projects\Opswat\bin\Release\scanner.exe.config
+E:\Projects\Opswat\bin\Release\scanner.exe
+E:\Projects\Opswat\bin\Release\scanner.pdb
+E:\Projects\Opswat\bin\Release\Newtonsoft.Json.dll
+E:\Projects\Opswat\bin\Release\Newtonsoft.Json.xml
+E:\Projects\Opswat\obj\Release\scanner.csproj.AssemblyReference.cache
+E:\Projects\Opswat\obj\Release\scanner.csproj.CoreCompileInputs.cache
+E:\Projects\Opswat\obj\Release\scanner.csproj.Up2Date
+E:\Projects\Opswat\obj\Release\scanner.exe
+E:\Projects\Opswat\obj\Release\scanner.pdb
